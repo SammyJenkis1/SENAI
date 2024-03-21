@@ -1,0 +1,110 @@
+body {
+ 	background: #AFEEEE;
+ 	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+ 	line-height: 1,6;
+
+}
+
+
+ .container {
+     margin: 0 auto; /* Margem inferior igual a zero e margens laterais em auto para centralizar.*/ 
+     width: 960px;  /* Fixa a largura do container em 960 pixels */
+}
+
+<h2 a {
+   color: #7E9F19;
+   text-decoration: none;
+}
+<h2 a:hover {
+  background-color: #7E9F19; 
+  color: #FFFFFF;
+
+}
+
+.places {
+  float: left;
+  width: 660px;
+
+}
+.place {
+    border-color: #CCCCCC #999999 #999999 #CCCCCC;
+    border: 1px solid;
+    border: 1px solid #CCCCCC
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.place h2{
+ border-bottom: 1px dashed #7E9F19
+ margin=0;
+
+}
+ .place a{
+  color: #2C88A7;
+  font-weight; bold;
+
+ }
+
+
+.place{
+	border-color: #CCCCCC #999999 #999999 #CCCCCC;
+    border: 1px solid;
+    border: 1px solid #CCCCCC
+    margin-bottom: 20px
+    padding: 10px;
+    background-color: #FFFAFA ;
+}
+
+.places{
+	border-bottom: 1px dashed #7E9F19;
+	margin:0;
+
+}
+.place b{
+ color: #2C88A7;
+ font-size: bold;
+}
+
+.place h2{
+  border-bottom: 1px dashed #2C88A7;
+  margin:0;
+
+}
+.place a{
+ color: #2C88A7;
+	margin:0;
+}
+ 
+ .place img{
+  border: 1px solid #2C88A7;
+  float: left;
+  margin: 10px;
+  padding:1px;
+  color: #7E9F19;
+  width:250px;
+  height:150px;
+ }
+
+.sidenote {
+  background-color: #FFFAFA ;
+  border: 1px solid ;
+  float: right;
+  padding: 10px;
+  width: 260px;
+
+}
+
+.sidenote h3{
+  font-size: 14px;
+  margin-top: 2px;
+
+
+}
+
+ .footer{
+   font-size: 12px;
+   text-align: right;
+   color: #483D8B  ;
+
+ }
+ 
